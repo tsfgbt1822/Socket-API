@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketAPI", "SocketAPI\SocketAPI.csproj", "{50C56A0C-705C-4540-8250-3F4A9D9DAD8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50C56A0C-705C-4540-8250-3F4A9D9DAD8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50C56A0C-705C-4540-8250-3F4A9D9DAD8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50C56A0C-705C-4540-8250-3F4A9D9DAD8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50C56A0C-705C-4540-8250-3F4A9D9DAD8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB1BFD77-60F8-4C1B-9D45-B3C81F52B90D}
+	EndGlobalSection
+EndGlobal
