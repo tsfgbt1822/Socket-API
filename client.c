@@ -1,5 +1,5 @@
 /* Client file
-* Tori Fischer - TSFGBT - 18221234
+* Tori Fischer
 * October 18, 2024
 *
 *Implements a SOCKET API chat room client that connects to server on port 11234
