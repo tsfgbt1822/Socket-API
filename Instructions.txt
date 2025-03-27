@@ -1,0 +1,25 @@
+These files are in C (unsure what version, very recent)
+
+I used VisualStudios code (2022). In order to run on visual studios, i click on the folder in my files, and hit open with visual studios.
+
+Then in the visual studios terminal (Ubuntu), compile with the command:
+
+gcc server.c -o server
+
+and then run with 
+
+./server
+
+to start the server
+
+
+
+Then open another terminal window with ubuntu and compile with:
+
+gcc client.c -o client
+
+and run with
+
+./client
+
+to start up the client. Then follow the prompts on the client window to interact with the chat room.
